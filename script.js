@@ -4,9 +4,18 @@
  * @link https://developer.mozilla.org/en-US/docs/Web/API/Element/querySelectorAll
  */
 
-import Backpack from "./Backpack.js";
+import FootballPlayer from "./FootballPlayer.js";
 
-const everydayPack = new Backpack(
+const tomBrady = new FootballPlayer(
+     "Tom Brady",
+     "6'4",
+     225,
+     12,
+     20,
+     624,
+     203,
+     84520,
+     3416    
 );
 
 const content = `
