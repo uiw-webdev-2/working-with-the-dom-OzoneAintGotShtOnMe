@@ -1,4 +1,4 @@
-class Backpack {
+class Forecast {
   constructor(
 
   ) {
@@ -6,4 +6,4 @@ class Backpack {
   }
 }
 
-export default Backpack;
+export default Forecast;
