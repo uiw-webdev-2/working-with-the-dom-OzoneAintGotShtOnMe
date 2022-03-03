@@ -20,7 +20,7 @@ const tomBrady = new FootballPlayer(
 
 const content = `
      <figure class="backpack__image">
-       <img src= alt="" />
+       <img src=${tomBrady.image} alt="" />
      </figure>
      <h1 class="backpack__name"></h1>
      <ul class="backpack__features">
